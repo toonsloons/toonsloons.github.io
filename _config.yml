@@ -16,7 +16,7 @@ timezone:
 
 title: Toons Loons # the main title
 
-tagline: A site dedicated for writeup's for TryHackMe, HackTheBox. # it will display as the subtitle
+tagline: A site dedicated for writeup's of TryHackMe, HackTheBox. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   TryHackMe and HackTheBox writeup's.
